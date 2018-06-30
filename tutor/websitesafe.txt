@@ -1,0 +1,7 @@
+Secure Apache from Clickjacking with X-FRAME-OPTIONS
+https://geekflare.com/secure-apache-from-clickjacking-with-x-frame-options/
+
+checker:
+https://tools.geekflare.com/report/x-frame-options-test/k.bjgxft.com
+
+http://htaccess.db-dzine.com/en-us/new-htaccess/
