@@ -5,6 +5,8 @@ https://sug.so.360.cn/suggest?callback=suggest_so&encodein=utf-8&encodeout=utf-8
 https://sug.so.360.cn/suggest?callback=suggest_so&encodein=utf-8&encodeout=utf-8&word={}
 最佳
 https://sug.so.360.cn/suggest?encodein=utf-8&encodeout=utf-8&word={}
+xml格式
+http://sug.so.360.cn/suggest?callback=suggest_so&encodein=utf-8&encodeout=utf-8&format=xml&word={}
 
 SO 移动
 https://m.so.com/suggest/mso?kw={}&src=mso&caller=strict&sensitive=strict&count=10
