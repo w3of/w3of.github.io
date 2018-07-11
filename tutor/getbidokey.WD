@@ -1,3 +1,14 @@
 获取关键词教程 - 百度
-百度指数 index.baidu.com
-http://nssug.baidu.com/su?prod=index&wd={keywords}&17301&callback=_jsonppih1tb9gwmr
+
+获取方式:搜索下拉
+
+1.百度指数 index.baidu.com
+http://nssug.baidu.com/su?prod=index&wd={keyword}&17301&callback=_jsonppih1tb9gwmr
+
+2.百度搜索 www.baidu.com
+https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd={keyword}&json=1
+
+3.百度移动搜索 m.baidu.com
+https://m.baidu.com/su?wd={1$}
+
+python获取
