@@ -1,0 +1,7 @@
+获取搜狗搜索下拉词
+搜狗PC
+https://www.sogou.com/suggnew/ajajjson?key={}&type=web
+搜狗移动
+https://m.sogou.com/web/sugg.jsp?vr=1&kw={}
+
+搜狗指数没有建议
